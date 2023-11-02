@@ -1,0 +1,23 @@
+/*時間表示*/
+#time{
+  font-size: 35px;
+  letter-spacing: 0.12em;
+  padding-top: 30px;
+  padding-left: 25px;
+}
+
+/*ボタン全体*/
+#button{
+display: flex;
+}
+
+/*ボタン一個一個*/
+button{
+  background-color: #d3d3d3;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid;
+  border-radius:3px;
+  font-weight: bold;
+  margin-top: 50px;
+}
